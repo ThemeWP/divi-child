@@ -2,4 +2,3 @@
 
 * Gulp
 * Sass
-* Bower
