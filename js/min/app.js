@@ -1,0 +1,1 @@
+!function(i){var n={init:function(){console.log("init app.js")}};n.init()}(jQuery);

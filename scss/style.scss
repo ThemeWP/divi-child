@@ -1,0 +1,16 @@
+/*!
+ Theme Name:     Divi Child
+ Description:    Custom child theme by ThemeWP
+ Author:         Oscar Weijman
+ Author URI:     http://www.themewp.nl
+ Template:       divi
+ Version:        1.0.0
+*/
+@import url('../divi/style.css');
+@import 'variables';
+@import 'global';
+@import 'header';
+@import 'footer';
+@import 'sidebar';
+@import 'divimodules';
+@import 'responsive';
